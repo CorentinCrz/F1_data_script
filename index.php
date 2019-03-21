@@ -1,5 +1,6 @@
 <?php
 ini_set('max_execution_time', 0);
+const DATA_DIR = 'data/';
 const DATA_YEAR = '2017';
 
 /**
@@ -50,7 +51,7 @@ function getJsonData(string $file): array
 function getCsvData(string $file): array
 {
     echo 'Loading file : ' . $file . '.csv<br>';
-    $csv = array_map('str_getcsv', file('../csv/' . $file . '.csv'));
+    $csv = array_map('str_getcsv', file('csv/' . $file . '.csv'));
     array_walk($csv, function(&$a) use ($csv) {
         $a = array_combine($csv[0], $a);
     });
@@ -115,7 +116,7 @@ function getDataFromFiles(array $races, array $files): void
 
     foreach ($data as $key => &$item) {
         echo 'Writing file : ' . $key . '.json<br>';
-        file_put_contents($key . '.json', json_encode(utf8ize($item['after'])));
+        file_put_contents(DATA_DIR . $key . '.json', json_encode(utf8ize($item['after'])));
     }
 }
 
@@ -146,7 +147,7 @@ foreach ($temp as $race) {
     }
 }
 echo 'Writing file : races.json<br>';
-file_put_contents('races.json', json_encode($races));
+file_put_contents(DATA_DIR . 'races.json', json_encode($races));
 getDataFromFiles($races, [
     'results',
     'circuits',
@@ -158,7 +159,7 @@ getDataFromFiles($races, [
     'qualifying',
 ]);
 
-$results = file_get_contents('results.json');
+$results = file_get_contents(DATA_DIR . 'results.json');
 $results = json_decode($results, true);
 getDataFromFiles($results, [
     'constructors',
