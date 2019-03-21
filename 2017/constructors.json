@@ -1,0 +1,72 @@
+{
+  "0": {
+    "constructorId": "6",
+    "constructorRef": "ferrari",
+    "name": "Ferrari",
+    "nationality": "Italian",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Scuderia_Ferrari"
+  },
+  "1": {
+    "constructorId": "131",
+    "constructorRef": "mercedes",
+    "name": "Mercedes",
+    "nationality": "German",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Mercedes-Benz_in_Formula_One"
+  },
+  "4": {
+    "constructorId": "9",
+    "constructorRef": "red_bull",
+    "name": "Red Bull",
+    "nationality": "Austrian",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Red_Bull_Racing"
+  },
+  "5": {
+    "constructorId": "3",
+    "constructorRef": "williams",
+    "name": "Williams",
+    "nationality": "British",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Williams_Grand_Prix_Engineering"
+  },
+  "6": {
+    "constructorId": "10",
+    "constructorRef": "force_india",
+    "name": "Force India",
+    "nationality": "Indian",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Force_India"
+  },
+  "7": {
+    "constructorId": "5",
+    "constructorRef": "toro_rosso",
+    "name": "Toro Rosso",
+    "nationality": "Italian",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Scuderia_Toro_Rosso"
+  },
+  "10": {
+    "constructorId": "4",
+    "constructorRef": "renault",
+    "name": "Renault",
+    "nationality": "French",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Renault_F1"
+  },
+  "11": {
+    "constructorId": "15",
+    "constructorRef": "sauber",
+    "name": "Sauber",
+    "nationality": "Swiss",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Sauber"
+  },
+  "12": {
+    "constructorId": "1",
+    "constructorRef": "mclaren",
+    "name": "McLaren",
+    "nationality": "British",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/McLaren"
+  },
+  "14": {
+    "constructorId": "210",
+    "constructorRef": "haas",
+    "name": "Haas F1 Team",
+    "nationality": "American",
+    "url": "http:\/\/en.wikipedia.org\/wiki\/Haas_F1_Team"
+  }
+}

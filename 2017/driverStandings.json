@@ -1,0 +1,4079 @@
+[
+  {
+    "driverStandingsId": "68160",
+    "raceId": "969",
+    "driverId": "830",
+    "points": "10",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68159",
+    "raceId": "969",
+    "driverId": "8",
+    "points": "12",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68158",
+    "raceId": "969",
+    "driverId": "822",
+    "points": "15",
+    "position": "3",
+    "positionText": "3",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68157",
+    "raceId": "969",
+    "driverId": "1",
+    "points": "18",
+    "position": "2",
+    "positionText": "2",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68156",
+    "raceId": "969",
+    "driverId": "20",
+    "points": "25",
+    "position": "1",
+    "positionText": "1",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68161",
+    "raceId": "969",
+    "driverId": "13",
+    "points": "8",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68162",
+    "raceId": "969",
+    "driverId": "815",
+    "points": "6",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68163",
+    "raceId": "969",
+    "driverId": "832",
+    "points": "4",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68164",
+    "raceId": "969",
+    "driverId": "826",
+    "points": "2",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68165",
+    "raceId": "969",
+    "driverId": "839",
+    "points": "1",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68166",
+    "raceId": "969",
+    "driverId": "807",
+    "points": "0",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68167",
+    "raceId": "969",
+    "driverId": "841",
+    "points": "0",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68168",
+    "raceId": "969",
+    "driverId": "838",
+    "points": "0",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68169",
+    "raceId": "969",
+    "driverId": "4",
+    "points": "0",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68170",
+    "raceId": "969",
+    "driverId": "825",
+    "points": "0",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68171",
+    "raceId": "969",
+    "driverId": "840",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68172",
+    "raceId": "969",
+    "driverId": "817",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68173",
+    "raceId": "969",
+    "driverId": "828",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68174",
+    "raceId": "969",
+    "driverId": "835",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68175",
+    "raceId": "969",
+    "driverId": "154",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68176",
+    "raceId": "970",
+    "driverId": "20",
+    "points": "43",
+    "position": "1",
+    "positionText": "1",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68177",
+    "raceId": "970",
+    "driverId": "1",
+    "points": "43",
+    "position": "2",
+    "positionText": "2",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68178",
+    "raceId": "970",
+    "driverId": "822",
+    "points": "23",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68179",
+    "raceId": "970",
+    "driverId": "8",
+    "points": "22",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68180",
+    "raceId": "970",
+    "driverId": "830",
+    "points": "25",
+    "position": "3",
+    "positionText": "3",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68181",
+    "raceId": "970",
+    "driverId": "13",
+    "points": "8",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68182",
+    "raceId": "970",
+    "driverId": "815",
+    "points": "8",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68183",
+    "raceId": "970",
+    "driverId": "832",
+    "points": "10",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68184",
+    "raceId": "970",
+    "driverId": "826",
+    "points": "2",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68185",
+    "raceId": "970",
+    "driverId": "839",
+    "points": "2",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68186",
+    "raceId": "970",
+    "driverId": "807",
+    "points": "0",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68187",
+    "raceId": "970",
+    "driverId": "841",
+    "points": "0",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68188",
+    "raceId": "970",
+    "driverId": "838",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68189",
+    "raceId": "970",
+    "driverId": "4",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68190",
+    "raceId": "970",
+    "driverId": "825",
+    "points": "4",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68191",
+    "raceId": "970",
+    "driverId": "840",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68192",
+    "raceId": "970",
+    "driverId": "817",
+    "points": "12",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68193",
+    "raceId": "970",
+    "driverId": "828",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68194",
+    "raceId": "970",
+    "driverId": "835",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68195",
+    "raceId": "970",
+    "driverId": "154",
+    "points": "0",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68196",
+    "raceId": "971",
+    "driverId": "20",
+    "points": "68",
+    "position": "1",
+    "positionText": "1",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68197",
+    "raceId": "971",
+    "driverId": "1",
+    "points": "61",
+    "position": "2",
+    "positionText": "2",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68198",
+    "raceId": "971",
+    "driverId": "822",
+    "points": "38",
+    "position": "3",
+    "positionText": "3",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68199",
+    "raceId": "971",
+    "driverId": "8",
+    "points": "34",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68200",
+    "raceId": "971",
+    "driverId": "830",
+    "points": "25",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68201",
+    "raceId": "971",
+    "driverId": "13",
+    "points": "16",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68202",
+    "raceId": "971",
+    "driverId": "815",
+    "points": "14",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68203",
+    "raceId": "971",
+    "driverId": "832",
+    "points": "10",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68204",
+    "raceId": "971",
+    "driverId": "826",
+    "points": "2",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68205",
+    "raceId": "971",
+    "driverId": "839",
+    "points": "3",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68206",
+    "raceId": "971",
+    "driverId": "807",
+    "points": "2",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68207",
+    "raceId": "971",
+    "driverId": "841",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68208",
+    "raceId": "971",
+    "driverId": "838",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68209",
+    "raceId": "971",
+    "driverId": "4",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68210",
+    "raceId": "971",
+    "driverId": "825",
+    "points": "4",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68211",
+    "raceId": "971",
+    "driverId": "840",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68212",
+    "raceId": "971",
+    "driverId": "817",
+    "points": "22",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68213",
+    "raceId": "971",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68214",
+    "raceId": "971",
+    "driverId": "835",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68215",
+    "raceId": "971",
+    "driverId": "154",
+    "points": "4",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68216",
+    "raceId": "971",
+    "driverId": "836",
+    "points": "0",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68217",
+    "raceId": "972",
+    "driverId": "20",
+    "points": "86",
+    "position": "1",
+    "positionText": "1",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68218",
+    "raceId": "972",
+    "driverId": "1",
+    "points": "73",
+    "position": "2",
+    "positionText": "2",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68219",
+    "raceId": "972",
+    "driverId": "822",
+    "points": "63",
+    "position": "3",
+    "positionText": "3",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68220",
+    "raceId": "972",
+    "driverId": "8",
+    "points": "49",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68221",
+    "raceId": "972",
+    "driverId": "830",
+    "points": "35",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68222",
+    "raceId": "972",
+    "driverId": "13",
+    "points": "18",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68223",
+    "raceId": "972",
+    "driverId": "815",
+    "points": "22",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68224",
+    "raceId": "972",
+    "driverId": "832",
+    "points": "11",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68225",
+    "raceId": "972",
+    "driverId": "826",
+    "points": "2",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68226",
+    "raceId": "972",
+    "driverId": "839",
+    "points": "9",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68227",
+    "raceId": "972",
+    "driverId": "807",
+    "points": "6",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68228",
+    "raceId": "972",
+    "driverId": "841",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68229",
+    "raceId": "972",
+    "driverId": "838",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68230",
+    "raceId": "972",
+    "driverId": "4",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68231",
+    "raceId": "972",
+    "driverId": "825",
+    "points": "4",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68232",
+    "raceId": "972",
+    "driverId": "840",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68233",
+    "raceId": "972",
+    "driverId": "817",
+    "points": "22",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68234",
+    "raceId": "972",
+    "driverId": "828",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68235",
+    "raceId": "972",
+    "driverId": "835",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68236",
+    "raceId": "972",
+    "driverId": "154",
+    "points": "4",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68237",
+    "raceId": "972",
+    "driverId": "836",
+    "points": "0",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68238",
+    "raceId": "973",
+    "driverId": "20",
+    "points": "104",
+    "position": "1",
+    "positionText": "1",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68239",
+    "raceId": "973",
+    "driverId": "1",
+    "points": "98",
+    "position": "2",
+    "positionText": "2",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68240",
+    "raceId": "973",
+    "driverId": "822",
+    "points": "63",
+    "position": "3",
+    "positionText": "3",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68241",
+    "raceId": "973",
+    "driverId": "8",
+    "points": "49",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68242",
+    "raceId": "973",
+    "driverId": "830",
+    "points": "35",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68243",
+    "raceId": "973",
+    "driverId": "13",
+    "points": "18",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68244",
+    "raceId": "973",
+    "driverId": "815",
+    "points": "34",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68245",
+    "raceId": "973",
+    "driverId": "832",
+    "points": "17",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68246",
+    "raceId": "973",
+    "driverId": "826",
+    "points": "4",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68247",
+    "raceId": "973",
+    "driverId": "839",
+    "points": "19",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68248",
+    "raceId": "973",
+    "driverId": "807",
+    "points": "14",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68249",
+    "raceId": "973",
+    "driverId": "841",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68250",
+    "raceId": "973",
+    "driverId": "838",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68251",
+    "raceId": "973",
+    "driverId": "4",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68252",
+    "raceId": "973",
+    "driverId": "825",
+    "points": "4",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68253",
+    "raceId": "973",
+    "driverId": "840",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68254",
+    "raceId": "973",
+    "driverId": "817",
+    "points": "37",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68255",
+    "raceId": "973",
+    "driverId": "828",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68256",
+    "raceId": "973",
+    "driverId": "835",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68257",
+    "raceId": "973",
+    "driverId": "154",
+    "points": "5",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68258",
+    "raceId": "973",
+    "driverId": "836",
+    "points": "4",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68259",
+    "raceId": "974",
+    "driverId": "20",
+    "points": "129",
+    "position": "1",
+    "positionText": "1",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68260",
+    "raceId": "974",
+    "driverId": "1",
+    "points": "104",
+    "position": "2",
+    "positionText": "2",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68261",
+    "raceId": "974",
+    "driverId": "822",
+    "points": "75",
+    "position": "3",
+    "positionText": "3",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68262",
+    "raceId": "974",
+    "driverId": "8",
+    "points": "67",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68263",
+    "raceId": "974",
+    "driverId": "830",
+    "points": "45",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68264",
+    "raceId": "974",
+    "driverId": "13",
+    "points": "20",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68265",
+    "raceId": "974",
+    "driverId": "815",
+    "points": "34",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68266",
+    "raceId": "974",
+    "driverId": "832",
+    "points": "25",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68267",
+    "raceId": "974",
+    "driverId": "826",
+    "points": "4",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68268",
+    "raceId": "974",
+    "driverId": "839",
+    "points": "19",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68269",
+    "raceId": "974",
+    "driverId": "807",
+    "points": "14",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68270",
+    "raceId": "974",
+    "driverId": "841",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68271",
+    "raceId": "974",
+    "driverId": "838",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68272",
+    "raceId": "974",
+    "driverId": "4",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68273",
+    "raceId": "974",
+    "driverId": "825",
+    "points": "5",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68274",
+    "raceId": "974",
+    "driverId": "840",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68275",
+    "raceId": "974",
+    "driverId": "817",
+    "points": "52",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68276",
+    "raceId": "974",
+    "driverId": "828",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68277",
+    "raceId": "974",
+    "driverId": "835",
+    "points": "0",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68278",
+    "raceId": "974",
+    "driverId": "154",
+    "points": "9",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68279",
+    "raceId": "974",
+    "driverId": "836",
+    "points": "4",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68280",
+    "raceId": "974",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68281",
+    "raceId": "975",
+    "driverId": "20",
+    "points": "141",
+    "position": "1",
+    "positionText": "1",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68282",
+    "raceId": "975",
+    "driverId": "1",
+    "points": "129",
+    "position": "2",
+    "positionText": "2",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68283",
+    "raceId": "975",
+    "driverId": "822",
+    "points": "93",
+    "position": "3",
+    "positionText": "3",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68284",
+    "raceId": "975",
+    "driverId": "8",
+    "points": "73",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68285",
+    "raceId": "975",
+    "driverId": "830",
+    "points": "45",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68286",
+    "raceId": "975",
+    "driverId": "13",
+    "points": "20",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68287",
+    "raceId": "975",
+    "driverId": "815",
+    "points": "44",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68288",
+    "raceId": "975",
+    "driverId": "832",
+    "points": "25",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68289",
+    "raceId": "975",
+    "driverId": "826",
+    "points": "4",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68290",
+    "raceId": "975",
+    "driverId": "839",
+    "points": "27",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68291",
+    "raceId": "975",
+    "driverId": "807",
+    "points": "18",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68292",
+    "raceId": "975",
+    "driverId": "841",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68293",
+    "raceId": "975",
+    "driverId": "838",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68294",
+    "raceId": "975",
+    "driverId": "4",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68295",
+    "raceId": "975",
+    "driverId": "825",
+    "points": "5",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68296",
+    "raceId": "975",
+    "driverId": "840",
+    "points": "2",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68297",
+    "raceId": "975",
+    "driverId": "817",
+    "points": "67",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68298",
+    "raceId": "975",
+    "driverId": "828",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68299",
+    "raceId": "975",
+    "driverId": "835",
+    "points": "0",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68300",
+    "raceId": "975",
+    "driverId": "154",
+    "points": "10",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68301",
+    "raceId": "975",
+    "driverId": "836",
+    "points": "4",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68302",
+    "raceId": "975",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68303",
+    "raceId": "976",
+    "driverId": "20",
+    "points": "153",
+    "position": "1",
+    "positionText": "1",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68304",
+    "raceId": "976",
+    "driverId": "1",
+    "points": "139",
+    "position": "2",
+    "positionText": "2",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68305",
+    "raceId": "976",
+    "driverId": "822",
+    "points": "111",
+    "position": "3",
+    "positionText": "3",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68306",
+    "raceId": "976",
+    "driverId": "8",
+    "points": "73",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68307",
+    "raceId": "976",
+    "driverId": "830",
+    "points": "45",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68308",
+    "raceId": "976",
+    "driverId": "13",
+    "points": "20",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68309",
+    "raceId": "976",
+    "driverId": "815",
+    "points": "44",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68310",
+    "raceId": "976",
+    "driverId": "832",
+    "points": "29",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68311",
+    "raceId": "976",
+    "driverId": "826",
+    "points": "4",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68312",
+    "raceId": "976",
+    "driverId": "839",
+    "points": "35",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68313",
+    "raceId": "976",
+    "driverId": "807",
+    "points": "18",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68314",
+    "raceId": "976",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68315",
+    "raceId": "976",
+    "driverId": "838",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68316",
+    "raceId": "976",
+    "driverId": "4",
+    "points": "2",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68317",
+    "raceId": "976",
+    "driverId": "825",
+    "points": "11",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68318",
+    "raceId": "976",
+    "driverId": "840",
+    "points": "17",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68319",
+    "raceId": "976",
+    "driverId": "817",
+    "points": "92",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68320",
+    "raceId": "976",
+    "driverId": "828",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68321",
+    "raceId": "976",
+    "driverId": "835",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68322",
+    "raceId": "976",
+    "driverId": "154",
+    "points": "10",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68323",
+    "raceId": "976",
+    "driverId": "836",
+    "points": "5",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68324",
+    "raceId": "976",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68325",
+    "raceId": "977",
+    "driverId": "20",
+    "points": "171",
+    "position": "1",
+    "positionText": "1",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68326",
+    "raceId": "977",
+    "driverId": "1",
+    "points": "151",
+    "position": "2",
+    "positionText": "2",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68327",
+    "raceId": "977",
+    "driverId": "822",
+    "points": "136",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68328",
+    "raceId": "977",
+    "driverId": "8",
+    "points": "83",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68329",
+    "raceId": "977",
+    "driverId": "830",
+    "points": "45",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68330",
+    "raceId": "977",
+    "driverId": "13",
+    "points": "22",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68331",
+    "raceId": "977",
+    "driverId": "815",
+    "points": "50",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68332",
+    "raceId": "977",
+    "driverId": "832",
+    "points": "29",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68333",
+    "raceId": "977",
+    "driverId": "826",
+    "points": "4",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68334",
+    "raceId": "977",
+    "driverId": "839",
+    "points": "39",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68335",
+    "raceId": "977",
+    "driverId": "807",
+    "points": "18",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68336",
+    "raceId": "977",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68337",
+    "raceId": "977",
+    "driverId": "838",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68338",
+    "raceId": "977",
+    "driverId": "4",
+    "points": "2",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68339",
+    "raceId": "977",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68340",
+    "raceId": "977",
+    "driverId": "840",
+    "points": "18",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68341",
+    "raceId": "977",
+    "driverId": "817",
+    "points": "107",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68342",
+    "raceId": "977",
+    "driverId": "828",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68343",
+    "raceId": "977",
+    "driverId": "835",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68344",
+    "raceId": "977",
+    "driverId": "154",
+    "points": "18",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68345",
+    "raceId": "977",
+    "driverId": "836",
+    "points": "5",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68346",
+    "raceId": "977",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68347",
+    "raceId": "978",
+    "driverId": "20",
+    "points": "177",
+    "position": "1",
+    "positionText": "1",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68348",
+    "raceId": "978",
+    "driverId": "1",
+    "points": "176",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68349",
+    "raceId": "978",
+    "driverId": "822",
+    "points": "154",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68350",
+    "raceId": "978",
+    "driverId": "8",
+    "points": "98",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68351",
+    "raceId": "978",
+    "driverId": "830",
+    "points": "57",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68352",
+    "raceId": "978",
+    "driverId": "13",
+    "points": "23",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68353",
+    "raceId": "978",
+    "driverId": "815",
+    "points": "52",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68354",
+    "raceId": "978",
+    "driverId": "832",
+    "points": "29",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68355",
+    "raceId": "978",
+    "driverId": "826",
+    "points": "4",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68356",
+    "raceId": "978",
+    "driverId": "839",
+    "points": "43",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68357",
+    "raceId": "978",
+    "driverId": "807",
+    "points": "26",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68358",
+    "raceId": "978",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68359",
+    "raceId": "978",
+    "driverId": "838",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68360",
+    "raceId": "978",
+    "driverId": "4",
+    "points": "2",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68361",
+    "raceId": "978",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68362",
+    "raceId": "978",
+    "driverId": "840",
+    "points": "18",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68363",
+    "raceId": "978",
+    "driverId": "817",
+    "points": "117",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68364",
+    "raceId": "978",
+    "driverId": "828",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68365",
+    "raceId": "978",
+    "driverId": "835",
+    "points": "0",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68366",
+    "raceId": "978",
+    "driverId": "154",
+    "points": "18",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68367",
+    "raceId": "978",
+    "driverId": "836",
+    "points": "5",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68368",
+    "raceId": "978",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68369",
+    "raceId": "979",
+    "driverId": "20",
+    "points": "202",
+    "position": "1",
+    "positionText": "1",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68370",
+    "raceId": "979",
+    "driverId": "1",
+    "points": "188",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68371",
+    "raceId": "979",
+    "driverId": "822",
+    "points": "169",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68372",
+    "raceId": "979",
+    "driverId": "8",
+    "points": "116",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68373",
+    "raceId": "979",
+    "driverId": "830",
+    "points": "67",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68374",
+    "raceId": "979",
+    "driverId": "13",
+    "points": "23",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68375",
+    "raceId": "979",
+    "driverId": "815",
+    "points": "56",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68376",
+    "raceId": "979",
+    "driverId": "832",
+    "points": "35",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68377",
+    "raceId": "979",
+    "driverId": "826",
+    "points": "4",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68378",
+    "raceId": "979",
+    "driverId": "839",
+    "points": "45",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68379",
+    "raceId": "979",
+    "driverId": "807",
+    "points": "26",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68380",
+    "raceId": "979",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68381",
+    "raceId": "979",
+    "driverId": "838",
+    "points": "1",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68382",
+    "raceId": "979",
+    "driverId": "4",
+    "points": "10",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68383",
+    "raceId": "979",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68384",
+    "raceId": "979",
+    "driverId": "840",
+    "points": "18",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68385",
+    "raceId": "979",
+    "driverId": "817",
+    "points": "117",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68386",
+    "raceId": "979",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68387",
+    "raceId": "979",
+    "driverId": "835",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68388",
+    "raceId": "979",
+    "driverId": "154",
+    "points": "18",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68389",
+    "raceId": "979",
+    "driverId": "836",
+    "points": "5",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68390",
+    "raceId": "979",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68391",
+    "raceId": "979",
+    "driverId": "814",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68392",
+    "raceId": "980",
+    "driverId": "20",
+    "points": "220",
+    "position": "1",
+    "positionText": "1",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68393",
+    "raceId": "980",
+    "driverId": "1",
+    "points": "213",
+    "position": "2",
+    "positionText": "2",
+    "wins": "5"
+  },
+  {
+    "driverStandingsId": "68394",
+    "raceId": "980",
+    "driverId": "822",
+    "points": "179",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68395",
+    "raceId": "980",
+    "driverId": "8",
+    "points": "128",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68396",
+    "raceId": "980",
+    "driverId": "830",
+    "points": "67",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68397",
+    "raceId": "980",
+    "driverId": "13",
+    "points": "27",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68398",
+    "raceId": "980",
+    "driverId": "815",
+    "points": "56",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68399",
+    "raceId": "980",
+    "driverId": "832",
+    "points": "36",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68400",
+    "raceId": "980",
+    "driverId": "826",
+    "points": "4",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68401",
+    "raceId": "980",
+    "driverId": "839",
+    "points": "47",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68402",
+    "raceId": "980",
+    "driverId": "807",
+    "points": "34",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68403",
+    "raceId": "980",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68404",
+    "raceId": "980",
+    "driverId": "838",
+    "points": "1",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68405",
+    "raceId": "980",
+    "driverId": "4",
+    "points": "10",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68406",
+    "raceId": "980",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68407",
+    "raceId": "980",
+    "driverId": "840",
+    "points": "18",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68408",
+    "raceId": "980",
+    "driverId": "817",
+    "points": "132",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68409",
+    "raceId": "980",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68410",
+    "raceId": "980",
+    "driverId": "835",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68411",
+    "raceId": "980",
+    "driverId": "154",
+    "points": "24",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68412",
+    "raceId": "980",
+    "driverId": "836",
+    "points": "5",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68413",
+    "raceId": "980",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68414",
+    "raceId": "980",
+    "driverId": "814",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68415",
+    "raceId": "981",
+    "driverId": "20",
+    "points": "235",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68416",
+    "raceId": "981",
+    "driverId": "1",
+    "points": "238",
+    "position": "1",
+    "positionText": "1",
+    "wins": "6"
+  },
+  {
+    "driverStandingsId": "68417",
+    "raceId": "981",
+    "driverId": "822",
+    "points": "197",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68418",
+    "raceId": "981",
+    "driverId": "8",
+    "points": "138",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68419",
+    "raceId": "981",
+    "driverId": "830",
+    "points": "68",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68420",
+    "raceId": "981",
+    "driverId": "13",
+    "points": "31",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68421",
+    "raceId": "981",
+    "driverId": "815",
+    "points": "58",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68422",
+    "raceId": "981",
+    "driverId": "832",
+    "points": "36",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68423",
+    "raceId": "981",
+    "driverId": "826",
+    "points": "4",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68424",
+    "raceId": "981",
+    "driverId": "839",
+    "points": "55",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68425",
+    "raceId": "981",
+    "driverId": "807",
+    "points": "34",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68426",
+    "raceId": "981",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68427",
+    "raceId": "981",
+    "driverId": "838",
+    "points": "1",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68428",
+    "raceId": "981",
+    "driverId": "4",
+    "points": "10",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68429",
+    "raceId": "981",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68430",
+    "raceId": "981",
+    "driverId": "840",
+    "points": "24",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68431",
+    "raceId": "981",
+    "driverId": "817",
+    "points": "144",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68432",
+    "raceId": "981",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68433",
+    "raceId": "981",
+    "driverId": "835",
+    "points": "0",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68434",
+    "raceId": "981",
+    "driverId": "154",
+    "points": "24",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68435",
+    "raceId": "981",
+    "driverId": "836",
+    "points": "5",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68436",
+    "raceId": "981",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68437",
+    "raceId": "981",
+    "driverId": "814",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68438",
+    "raceId": "982",
+    "driverId": "20",
+    "points": "235",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68439",
+    "raceId": "982",
+    "driverId": "1",
+    "points": "263",
+    "position": "1",
+    "positionText": "1",
+    "wins": "7"
+  },
+  {
+    "driverStandingsId": "68440",
+    "raceId": "982",
+    "driverId": "822",
+    "points": "212",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68441",
+    "raceId": "982",
+    "driverId": "8",
+    "points": "138",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68442",
+    "raceId": "982",
+    "driverId": "830",
+    "points": "68",
+    "position": "6",
+    "positionText": "6",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68443",
+    "raceId": "982",
+    "driverId": "13",
+    "points": "31",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68444",
+    "raceId": "982",
+    "driverId": "815",
+    "points": "68",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68445",
+    "raceId": "982",
+    "driverId": "832",
+    "points": "48",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68446",
+    "raceId": "982",
+    "driverId": "826",
+    "points": "4",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68447",
+    "raceId": "982",
+    "driverId": "839",
+    "points": "56",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68448",
+    "raceId": "982",
+    "driverId": "807",
+    "points": "34",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68449",
+    "raceId": "982",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68450",
+    "raceId": "982",
+    "driverId": "838",
+    "points": "7",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68451",
+    "raceId": "982",
+    "driverId": "4",
+    "points": "10",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68452",
+    "raceId": "982",
+    "driverId": "825",
+    "points": "11",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68453",
+    "raceId": "982",
+    "driverId": "840",
+    "points": "28",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68454",
+    "raceId": "982",
+    "driverId": "817",
+    "points": "162",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68455",
+    "raceId": "982",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68456",
+    "raceId": "982",
+    "driverId": "835",
+    "points": "8",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68457",
+    "raceId": "982",
+    "driverId": "154",
+    "points": "26",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68458",
+    "raceId": "982",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68459",
+    "raceId": "982",
+    "driverId": "18",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68460",
+    "raceId": "982",
+    "driverId": "814",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68461",
+    "raceId": "983",
+    "driverId": "20",
+    "points": "247",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68462",
+    "raceId": "983",
+    "driverId": "1",
+    "points": "281",
+    "position": "1",
+    "positionText": "1",
+    "wins": "7"
+  },
+  {
+    "driverStandingsId": "68463",
+    "raceId": "983",
+    "driverId": "822",
+    "points": "222",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68464",
+    "raceId": "983",
+    "driverId": "8",
+    "points": "138",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68465",
+    "raceId": "983",
+    "driverId": "830",
+    "points": "93",
+    "position": "6",
+    "positionText": "6",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68466",
+    "raceId": "983",
+    "driverId": "13",
+    "points": "33",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68467",
+    "raceId": "983",
+    "driverId": "815",
+    "points": "76",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68468",
+    "raceId": "983",
+    "driverId": "832",
+    "points": "48",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68469",
+    "raceId": "983",
+    "driverId": "826",
+    "points": "4",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68470",
+    "raceId": "983",
+    "driverId": "839",
+    "points": "57",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68471",
+    "raceId": "983",
+    "driverId": "807",
+    "points": "34",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68472",
+    "raceId": "983",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68473",
+    "raceId": "983",
+    "driverId": "838",
+    "points": "13",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68474",
+    "raceId": "983",
+    "driverId": "4",
+    "points": "10",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68475",
+    "raceId": "983",
+    "driverId": "825",
+    "points": "11",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68476",
+    "raceId": "983",
+    "driverId": "840",
+    "points": "32",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68477",
+    "raceId": "983",
+    "driverId": "817",
+    "points": "177",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68478",
+    "raceId": "983",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68479",
+    "raceId": "983",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68480",
+    "raceId": "983",
+    "driverId": "154",
+    "points": "26",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68481",
+    "raceId": "983",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68482",
+    "raceId": "983",
+    "driverId": "18",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68483",
+    "raceId": "983",
+    "driverId": "814",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68484",
+    "raceId": "983",
+    "driverId": "842",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68485",
+    "raceId": "984",
+    "driverId": "20",
+    "points": "247",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68486",
+    "raceId": "984",
+    "driverId": "1",
+    "points": "306",
+    "position": "1",
+    "positionText": "1",
+    "wins": "8"
+  },
+  {
+    "driverStandingsId": "68487",
+    "raceId": "984",
+    "driverId": "822",
+    "points": "234",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68488",
+    "raceId": "984",
+    "driverId": "8",
+    "points": "148",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68489",
+    "raceId": "984",
+    "driverId": "830",
+    "points": "111",
+    "position": "6",
+    "positionText": "6",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68490",
+    "raceId": "984",
+    "driverId": "13",
+    "points": "34",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68491",
+    "raceId": "984",
+    "driverId": "815",
+    "points": "82",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68492",
+    "raceId": "984",
+    "driverId": "832",
+    "points": "48",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68493",
+    "raceId": "984",
+    "driverId": "826",
+    "points": "4",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68494",
+    "raceId": "984",
+    "driverId": "839",
+    "points": "65",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68495",
+    "raceId": "984",
+    "driverId": "807",
+    "points": "34",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68496",
+    "raceId": "984",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68497",
+    "raceId": "984",
+    "driverId": "838",
+    "points": "13",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68498",
+    "raceId": "984",
+    "driverId": "4",
+    "points": "10",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68499",
+    "raceId": "984",
+    "driverId": "825",
+    "points": "15",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68500",
+    "raceId": "984",
+    "driverId": "840",
+    "points": "32",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68501",
+    "raceId": "984",
+    "driverId": "817",
+    "points": "192",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68502",
+    "raceId": "984",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68503",
+    "raceId": "984",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68504",
+    "raceId": "984",
+    "driverId": "154",
+    "points": "28",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68505",
+    "raceId": "984",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68506",
+    "raceId": "984",
+    "driverId": "18",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68507",
+    "raceId": "984",
+    "driverId": "814",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68508",
+    "raceId": "984",
+    "driverId": "842",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68509",
+    "raceId": "985",
+    "driverId": "20",
+    "points": "265",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68510",
+    "raceId": "985",
+    "driverId": "1",
+    "points": "331",
+    "position": "1",
+    "positionText": "1",
+    "wins": "9"
+  },
+  {
+    "driverStandingsId": "68511",
+    "raceId": "985",
+    "driverId": "822",
+    "points": "244",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68512",
+    "raceId": "985",
+    "driverId": "8",
+    "points": "163",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68513",
+    "raceId": "985",
+    "driverId": "830",
+    "points": "123",
+    "position": "6",
+    "positionText": "6",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68514",
+    "raceId": "985",
+    "driverId": "13",
+    "points": "36",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68515",
+    "raceId": "985",
+    "driverId": "815",
+    "points": "86",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68516",
+    "raceId": "985",
+    "driverId": "832",
+    "points": "54",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68517",
+    "raceId": "985",
+    "driverId": "826",
+    "points": "5",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68518",
+    "raceId": "985",
+    "driverId": "839",
+    "points": "73",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68519",
+    "raceId": "985",
+    "driverId": "807",
+    "points": "34",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68520",
+    "raceId": "985",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68521",
+    "raceId": "985",
+    "driverId": "838",
+    "points": "13",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68522",
+    "raceId": "985",
+    "driverId": "4",
+    "points": "10",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68523",
+    "raceId": "985",
+    "driverId": "825",
+    "points": "15",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68524",
+    "raceId": "985",
+    "driverId": "840",
+    "points": "32",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68525",
+    "raceId": "985",
+    "driverId": "817",
+    "points": "192",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68526",
+    "raceId": "985",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68527",
+    "raceId": "985",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68528",
+    "raceId": "985",
+    "driverId": "154",
+    "points": "28",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68529",
+    "raceId": "985",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68530",
+    "raceId": "985",
+    "driverId": "18",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68531",
+    "raceId": "985",
+    "driverId": "814",
+    "points": "0",
+    "position": "25",
+    "positionText": "25",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68532",
+    "raceId": "985",
+    "driverId": "842",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68533",
+    "raceId": "985",
+    "driverId": "843",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68534",
+    "raceId": "986",
+    "driverId": "20",
+    "points": "277",
+    "position": "2",
+    "positionText": "2",
+    "wins": "4"
+  },
+  {
+    "driverStandingsId": "68535",
+    "raceId": "986",
+    "driverId": "1",
+    "points": "333",
+    "position": "1",
+    "positionText": "1",
+    "wins": "9"
+  },
+  {
+    "driverStandingsId": "68536",
+    "raceId": "986",
+    "driverId": "822",
+    "points": "262",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68537",
+    "raceId": "986",
+    "driverId": "8",
+    "points": "178",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68538",
+    "raceId": "986",
+    "driverId": "830",
+    "points": "148",
+    "position": "6",
+    "positionText": "6",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68539",
+    "raceId": "986",
+    "driverId": "13",
+    "points": "36",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68540",
+    "raceId": "986",
+    "driverId": "815",
+    "points": "92",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68541",
+    "raceId": "986",
+    "driverId": "832",
+    "points": "54",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68542",
+    "raceId": "986",
+    "driverId": "826",
+    "points": "5",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68543",
+    "raceId": "986",
+    "driverId": "839",
+    "points": "83",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68544",
+    "raceId": "986",
+    "driverId": "807",
+    "points": "34",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68545",
+    "raceId": "986",
+    "driverId": "841",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68546",
+    "raceId": "986",
+    "driverId": "838",
+    "points": "13",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68547",
+    "raceId": "986",
+    "driverId": "4",
+    "points": "11",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68548",
+    "raceId": "986",
+    "driverId": "825",
+    "points": "19",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68549",
+    "raceId": "986",
+    "driverId": "840",
+    "points": "40",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68550",
+    "raceId": "986",
+    "driverId": "817",
+    "points": "192",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68551",
+    "raceId": "986",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68552",
+    "raceId": "986",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68553",
+    "raceId": "986",
+    "driverId": "154",
+    "points": "28",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68554",
+    "raceId": "986",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68555",
+    "raceId": "986",
+    "driverId": "18",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68556",
+    "raceId": "986",
+    "driverId": "814",
+    "points": "0",
+    "position": "25",
+    "positionText": "25",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68557",
+    "raceId": "986",
+    "driverId": "842",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68558",
+    "raceId": "986",
+    "driverId": "843",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68559",
+    "raceId": "987",
+    "driverId": "20",
+    "points": "302",
+    "position": "2",
+    "positionText": "2",
+    "wins": "5"
+  },
+  {
+    "driverStandingsId": "68560",
+    "raceId": "987",
+    "driverId": "1",
+    "points": "345",
+    "position": "1",
+    "positionText": "1",
+    "wins": "9"
+  },
+  {
+    "driverStandingsId": "68561",
+    "raceId": "987",
+    "driverId": "822",
+    "points": "280",
+    "position": "3",
+    "positionText": "3",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68562",
+    "raceId": "987",
+    "driverId": "8",
+    "points": "193",
+    "position": "5",
+    "positionText": "5",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68563",
+    "raceId": "987",
+    "driverId": "830",
+    "points": "158",
+    "position": "6",
+    "positionText": "6",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68564",
+    "raceId": "987",
+    "driverId": "13",
+    "points": "42",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68565",
+    "raceId": "987",
+    "driverId": "815",
+    "points": "94",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68566",
+    "raceId": "987",
+    "driverId": "832",
+    "points": "54",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68567",
+    "raceId": "987",
+    "driverId": "826",
+    "points": "5",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68568",
+    "raceId": "987",
+    "driverId": "839",
+    "points": "83",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68569",
+    "raceId": "987",
+    "driverId": "807",
+    "points": "35",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68570",
+    "raceId": "987",
+    "driverId": "841",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68571",
+    "raceId": "987",
+    "driverId": "838",
+    "points": "13",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68572",
+    "raceId": "987",
+    "driverId": "4",
+    "points": "15",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68573",
+    "raceId": "987",
+    "driverId": "825",
+    "points": "19",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68574",
+    "raceId": "987",
+    "driverId": "840",
+    "points": "40",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68575",
+    "raceId": "987",
+    "driverId": "817",
+    "points": "200",
+    "position": "4",
+    "positionText": "4",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68576",
+    "raceId": "987",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68577",
+    "raceId": "987",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68578",
+    "raceId": "987",
+    "driverId": "154",
+    "points": "28",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68579",
+    "raceId": "987",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68580",
+    "raceId": "987",
+    "driverId": "18",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68581",
+    "raceId": "987",
+    "driverId": "814",
+    "points": "0",
+    "position": "25",
+    "positionText": "25",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68582",
+    "raceId": "987",
+    "driverId": "842",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68583",
+    "raceId": "987",
+    "driverId": "843",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68584",
+    "raceId": "988",
+    "driverId": "20",
+    "points": "317",
+    "position": "2",
+    "positionText": "2",
+    "wins": "5"
+  },
+  {
+    "driverStandingsId": "68585",
+    "raceId": "988",
+    "driverId": "1",
+    "points": "363",
+    "position": "1",
+    "positionText": "1",
+    "wins": "9"
+  },
+  {
+    "driverStandingsId": "68586",
+    "raceId": "988",
+    "driverId": "822",
+    "points": "305",
+    "position": "3",
+    "positionText": "3",
+    "wins": "3"
+  },
+  {
+    "driverStandingsId": "68587",
+    "raceId": "988",
+    "driverId": "8",
+    "points": "205",
+    "position": "4",
+    "positionText": "4",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68588",
+    "raceId": "988",
+    "driverId": "830",
+    "points": "168",
+    "position": "6",
+    "positionText": "6",
+    "wins": "2"
+  },
+  {
+    "driverStandingsId": "68589",
+    "raceId": "988",
+    "driverId": "13",
+    "points": "43",
+    "position": "11",
+    "positionText": "11",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68590",
+    "raceId": "988",
+    "driverId": "815",
+    "points": "100",
+    "position": "7",
+    "positionText": "7",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68591",
+    "raceId": "988",
+    "driverId": "832",
+    "points": "54",
+    "position": "9",
+    "positionText": "9",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68592",
+    "raceId": "988",
+    "driverId": "826",
+    "points": "5",
+    "position": "19",
+    "positionText": "19",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68593",
+    "raceId": "988",
+    "driverId": "839",
+    "points": "87",
+    "position": "8",
+    "positionText": "8",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68594",
+    "raceId": "988",
+    "driverId": "807",
+    "points": "43",
+    "position": "10",
+    "positionText": "10",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68595",
+    "raceId": "988",
+    "driverId": "841",
+    "points": "0",
+    "position": "22",
+    "positionText": "22",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68596",
+    "raceId": "988",
+    "driverId": "838",
+    "points": "13",
+    "position": "16",
+    "positionText": "16",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68597",
+    "raceId": "988",
+    "driverId": "4",
+    "points": "17",
+    "position": "15",
+    "positionText": "15",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68598",
+    "raceId": "988",
+    "driverId": "825",
+    "points": "19",
+    "position": "14",
+    "positionText": "14",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68599",
+    "raceId": "988",
+    "driverId": "840",
+    "points": "40",
+    "position": "12",
+    "positionText": "12",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68600",
+    "raceId": "988",
+    "driverId": "817",
+    "points": "200",
+    "position": "5",
+    "positionText": "5",
+    "wins": "1"
+  },
+  {
+    "driverStandingsId": "68601",
+    "raceId": "988",
+    "driverId": "828",
+    "points": "0",
+    "position": "20",
+    "positionText": "20",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68602",
+    "raceId": "988",
+    "driverId": "835",
+    "points": "8",
+    "position": "17",
+    "positionText": "17",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68603",
+    "raceId": "988",
+    "driverId": "154",
+    "points": "28",
+    "position": "13",
+    "positionText": "13",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68604",
+    "raceId": "988",
+    "driverId": "836",
+    "points": "5",
+    "position": "18",
+    "positionText": "18",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68605",
+    "raceId": "988",
+    "driverId": "18",
+    "points": "0",
+    "position": "24",
+    "positionText": "24",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68606",
+    "raceId": "988",
+    "driverId": "814",
+    "points": "0",
+    "position": "25",
+    "positionText": "25",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68607",
+    "raceId": "988",
+    "driverId": "842",
+    "points": "0",
+    "position": "21",
+    "positionText": "21",
+    "wins": "0"
+  },
+  {
+    "driverStandingsId": "68608",
+    "raceId": "988",
+    "driverId": "843",
+    "points": "0",
+    "position": "23",
+    "positionText": "23",
+    "wins": "0"
+  }
+]
