@@ -1,5 +1,6 @@
 <?php
 ini_set('max_execution_time', 0);
+const DATA_YEAR = '2017';
 
 /**
  * function used to extract data from json file
@@ -48,6 +49,7 @@ function getJsonData(string $file): array
  */
 function getCsvData(string $file): array
 {
+    echo 'Loading file : ' . $file . '.csv<br>';
     $csv = array_map('str_getcsv', file('../csv/' . $file . '.csv'));
     array_walk($csv, function(&$a) use ($csv) {
         $a = array_combine($csv[0], $a);
@@ -112,6 +114,7 @@ function getDataFromFiles(array $races, array $files): void
     }
 
     foreach ($data as $key => &$item) {
+        echo 'Writing file : ' . $key . '.json<br>';
         file_put_contents($key . '.json', json_encode(utf8ize($item['after'])));
     }
 }
@@ -134,13 +137,15 @@ function utf8ize($mixed) {
     return $mixed;
 }
 
+echo 'Starting script with year : ' . DATA_YEAR . '<br>';
 $temp = getCsvData('races');
 $races = [];
 foreach ($temp as $race) {
-    if ($race['year'] === '2017') {
+    if ($race['year'] === DATA_YEAR) {
         $races[] = $race;
     }
 }
+echo 'Writing file : races.json<br>';
 file_put_contents('races.json', json_encode($races));
 getDataFromFiles($races, [
     'results',
@@ -159,3 +164,4 @@ getDataFromFiles($results, [
     'constructors',
     'drivers',
 ]);
+echo 'Ending script';
